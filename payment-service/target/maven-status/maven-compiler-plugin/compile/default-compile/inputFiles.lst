@@ -1,7 +1,0 @@
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/entity/UserBalance.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/repository/UserBalanceRepository.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/repository/UserTransactionRepository.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/entity/UserTransaction.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/service/PaymentService.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/PaymentApplication.java
-/home/matheus/workspace/saga-choreography/payment-service/src/main/java/com/vinsguru/payment/config/PaymentConfig.java
