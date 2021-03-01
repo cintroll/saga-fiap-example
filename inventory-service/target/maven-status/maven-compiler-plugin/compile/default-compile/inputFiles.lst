@@ -1,7 +1,0 @@
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/config/InventoryConfig.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/InventoryApplication.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/repository/OrderInventoryRepository.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/entity/OrderInventoryConsumption.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/service/InventoryService.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/entity/OrderInventory.java
-/home/matheus/workspace/saga-choreography/inventory-service/src/main/java/com/vinsguru/inventory/repository/OrderInventoryConsumptionRepository.java
